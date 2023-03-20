@@ -47,7 +47,7 @@ header > .container {
 /* imgはvertical-align: bottom;を指定しないと下に余白ができることがある */
 
 .area_top_view {
-    background: url(https://github.com/Kei000000/portfolio/blob/main/img/tunafish-stEAITFInf8-unsplash.jpg) bottom center no-repeat;
+    background: url(img/tunafish-stEAITFInf8-unsplash.jpg) bottom center no-repeat;
     /* background-sizeをcoverにすると画像が広がった状態で表示される。 */
     background-size: cover;
     
